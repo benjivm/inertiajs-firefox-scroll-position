@@ -38,3 +38,5 @@ Or:
 ```bash
 npm run build
 ```
+
+Open the site (either via `php artisan serve` or your own server, e.g., `http://inertiajs-firefox-scroll-position.test`) and scroll to the middle of the first page. Read the text/follow the link to see the problem.
