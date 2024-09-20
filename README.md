@@ -12,7 +12,7 @@ npx vite build
 ```
 ### Usage
 
-- Open the site (either via `php artisan serve` or your own server, e.g., `http://inertiajs-firefox-scroll-position.test`) 
+- Open the site (either via `php artisan serve` or your own server, e.g., [http://inertiajs-firefox-scroll-position.test](http://inertiajs-firefox-scroll-position.test)) 
 - Scroll to about the middle of the first page where the link is.
 - Read the text/follow the link to see the problem.
 - Before hitting the back button ensure you've scrolled any amount on the linked page.
