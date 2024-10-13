@@ -1,4 +1,4 @@
-Repro repo of Inertia.js scroll position issue on Firefox.
+Repro repo of [Inertia.js scroll position issue](https://github.com/inertiajs/inertia/issues/1698) on Firefox, resolved by v2.
 
 ### Setup:
 
